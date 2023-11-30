@@ -1,0 +1,138 @@
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\bin\Debug\net7.0\ContactAPI.exe
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\bin\Debug\net7.0\ContactAPI.deps.json
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\bin\Debug\net7.0\ContactAPI.runtimeconfig.json
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\bin\Debug\net7.0\ContactAPI.dll
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\bin\Debug\net7.0\ContactAPI.pdb
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\obj\Debug\net7.0\ContactAPI.csproj.AssemblyReference.cache
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\obj\Debug\net7.0\ContactAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\obj\Debug\net7.0\ContactAPI.AssemblyInfoInputs.cache
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\obj\Debug\net7.0\ContactAPI.AssemblyInfo.cs
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\obj\Debug\net7.0\ContactAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\obj\Debug\net7.0\ContactAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\obj\Debug\net7.0\ContactAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\obj\Debug\net7.0\staticwebassets\msbuild.ContactAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.ContactAPI.props
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ContactAPI.props
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ContactAPI.props
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\obj\Debug\net7.0\scopedcss\bundle\ContactAPI.styles.css
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\obj\Debug\net7.0\ContactAPI.csproj.CopyComplete
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\obj\Debug\net7.0\ContactAPI.dll
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\obj\Debug\net7.0\refint\ContactAPI.dll
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\obj\Debug\net7.0\ContactAPI.pdb
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\obj\Debug\net7.0\ContactAPI.genruntimeconfig.cache
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\obj\Debug\net7.0\ref\ContactAPI.dll
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ravi.Kancharla\source\repos\ContactAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\bin\Debug\net7.0\ContactAPI.exe
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\bin\Debug\net7.0\ContactAPI.deps.json
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\bin\Debug\net7.0\ContactAPI.runtimeconfig.json
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\bin\Debug\net7.0\ContactAPI.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\bin\Debug\net7.0\ContactAPI.pdb
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\obj\Debug\net7.0\ContactAPI.csproj.AssemblyReference.cache
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\obj\Debug\net7.0\ContactAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\obj\Debug\net7.0\ContactAPI.AssemblyInfoInputs.cache
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\obj\Debug\net7.0\ContactAPI.AssemblyInfo.cs
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\obj\Debug\net7.0\ContactAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\obj\Debug\net7.0\ContactAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\obj\Debug\net7.0\ContactAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\obj\Debug\net7.0\staticwebassets\msbuild.ContactAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.ContactAPI.props
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ContactAPI.props
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ContactAPI.props
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\obj\Debug\net7.0\scopedcss\bundle\ContactAPI.styles.css
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\obj\Debug\net7.0\ContactAPI.csproj.CopyComplete
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\obj\Debug\net7.0\ContactAPI.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\obj\Debug\net7.0\refint\ContactAPI.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\obj\Debug\net7.0\ContactAPI.pdb
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\obj\Debug\net7.0\ContactAPI.genruntimeconfig.cache
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\CASE STUDY\ContactAPI\obj\Debug\net7.0\ref\ContactAPI.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\bin\Debug\net7.0\ContactAPI.exe
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\bin\Debug\net7.0\ContactAPI.deps.json
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\bin\Debug\net7.0\ContactAPI.runtimeconfig.json
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\bin\Debug\net7.0\ContactAPI.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\bin\Debug\net7.0\ContactAPI.pdb
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\obj\Debug\net7.0\ContactAPI.csproj.AssemblyReference.cache
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\obj\Debug\net7.0\ContactAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\obj\Debug\net7.0\ContactAPI.AssemblyInfoInputs.cache
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\obj\Debug\net7.0\ContactAPI.AssemblyInfo.cs
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\obj\Debug\net7.0\ContactAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\obj\Debug\net7.0\ContactAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\obj\Debug\net7.0\ContactAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\obj\Debug\net7.0\staticwebassets\msbuild.ContactAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.ContactAPI.props
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ContactAPI.props
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ContactAPI.props
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\obj\Debug\net7.0\scopedcss\bundle\ContactAPI.styles.css
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\obj\Debug\net7.0\ContactAPI.csproj.CopyComplete
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\obj\Debug\net7.0\ContactAPI.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\obj\Debug\net7.0\refint\ContactAPI.dll
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\obj\Debug\net7.0\ContactAPI.pdb
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\obj\Debug\net7.0\ContactAPI.genruntimeconfig.cache
+C:\Users\Ravi.Kancharla\OneDrive - GEP\Desktop\Final Contacts\Contacts\ContactAPI\obj\Debug\net7.0\ref\ContactAPI.dll

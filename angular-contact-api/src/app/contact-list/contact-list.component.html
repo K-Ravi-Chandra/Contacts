@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+
+<body>
+    <!-- text-center to the parent div to align text or any item inside to the center. -->
+    <div class="container text-center">
+        <!-- rows and columns to layout and align content.  -->
+        <div class="row" style="margin-top: 0.5cm;">
+          <div class="col" style="background-color: rgb(187, 237, 237); height: 3.3cm; border-radius: 0.1cm;">
+            <h2 style="margin-right: 19cm; margin-top: 0.3cm; color: rgb(17, 100, 100);"> Phone Book Application</h2>
+            <h6 style="margin-right: 24cm; color: rgb(30, 134, 134);">Powered by Angular 7</h6>
+            <hr style="color: rgb(24, 139, 139);">
+          </div>
+        </div>
+        
+        <div class="row" style="height: 0.5cm"> </div>
+
+        <div class="row">
+
+          <div class="col-lg-4" style="background-color: rgb(245, 235, 194); height: 12cm; border-radius: 0.1cm;">
+            <br> <button (click)="ContactList()" style="background-color: rgb(123, 121, 121); width: 9cm; height: 1cm; color: rgb(241, 238, 238);  border: 0cm; border-radius: 0.1cm;"> Contact List </button> <br> 
+            <br> <button (click)="Home()" style="background-color: rgb(123, 121, 121); width: 9cm; height: 1cm; color: rgb(241, 238, 238);  border: 0cm; border-radius: 0.1cm;"> Home </button> <br> 
+            <br> <button (click)="AddNewContact()" style="background-color: rgb(123, 121, 121); width: 9cm; height: 1cm; color: rgb(241, 238, 238);  border: 0cm; border-radius: 0.1cm;"> Add New Contact </button> <br>  
+          </div>
+          
+          <!-- overflow-y adds a scroll bar, display overflow content of a block-level element. -->
+          <div class="col-lg-8" style="overflow-y: scroll; height: 469px;" >
+
+            <table class="table table-hover">
+              <!-- aligns the text to the left -->
+                <tbody style="text-align: left;">
+                        <h3>List of All Contacts</h3>
+
+                        <div style="height: 0.2cm;"></div>
+            
+                        <tr *ngFor = "let item of contacts"  style="padding-left: 8cm;">
+                            <!-- border defines the thickness of the border in pixels -->
+                            <div style="border: 1px solid;"  >
+
+                                <td>
+                                    <!-- src Specifies the path(location) to the image -->
+                                    <img src="{{item.picture}}" height="200" width="150"  style="margin-left: 1cm; margin-right: 2cm; ">
+                                </td>
+                                
+                                <td>
+                                    <!-- Forms provides data-binding and validation of input controls -->
+                                    <b>Name: {{item.firstname }}  {{item.lastname}} </b>
+                                    <div style="color: rgb(110, 110, 110);">  ID : {{item.id}} </div>
+                                    <div style="color: rgb(110, 110, 110);">  City : {{item.city}} </div>
+                                    <div style="color: rgb(110, 110, 110);"> Phone : ({{item.phone}}) </div>
+                                    <div style="height: 5px;"></div>
+                                    
+                                    <button (click)="Edit()" style="background-color: rgb(49, 185, 76); color: white; border-radius: 0.1cm; border: 0cm; margin-right: 0.1cm; width: 1.5cm;">Edit</button> 
+                                    <button (click)="Delete(item.id)" style="background-color: rgb(247, 52, 52); color: white; border-radius: 0.1cm; border: 0cm;">Delete</button>
+                                    
+                                    <div style="height: 5px;"></div>
+                                </td>
+
+                            </div>
+
+                        </tr>
+
+                    </tbody>
+                </table>
+    
+
+          </div>
+
+        </div>
+
+    </div>
+
+
+</body>
+</html>

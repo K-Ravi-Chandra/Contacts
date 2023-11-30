@@ -1,0 +1,133 @@
+<div class="container">
+    <table>
+      <!-- tr defines a row in an HTML table -->
+      <!-- td defines a data in an HTML table -->
+      <tr>
+        <td>Id</td>
+        <td>
+          <input type="number" [(ngModel)]="contact.id">
+        </td>
+      </tr>
+
+      <tr>
+        <td>First Name</td>
+        <td>
+          <input type="text" [(ngModel)]="contact.firstname">
+        </td>
+      </tr>
+
+      <tr>
+        <td>Last Name</td>
+        <td>
+          <input type="text" [(ngModel)]="contact.lastname">
+        </td>
+      </tr>
+
+      <tr>
+        <td>Gender</td>
+        <td>
+          <input type="text" [(ngModel)]="contact.gender">
+        </td>
+      </tr>
+
+      <tr>
+        <td>DOB</td>
+        <td>
+          <input type="text" [(ngModel)]="contact.dob">
+        </td>
+      </tr>
+
+      <tr>
+        <td>Email</td>
+        <td>
+          <input type="text" [(ngModel)]="contact.email">
+        </td>
+      </tr>
+
+      <tr>
+        <td>Phone No</td>
+        <td>
+          <input type="text" [(ngModel)]="contact.phone">
+        </td>
+      </tr>
+
+      <tr>
+        <td>City</td>
+        <td>
+          <input type="text" [(ngModel)]="contact.city">
+        </td>
+      </tr>
+
+      <tr>
+        <td>State</td>
+        <td>
+          <input type="text" [(ngModel)]="contact.state">
+        </td>
+      </tr>
+
+      <tr>
+        <td>Country</td>
+        <td>
+          <input type="text" [(ngModel)]="contact.country">
+        </td>
+      </tr>
+
+      <tr>
+        <td>Picture</td>
+        <td>
+          <!-- <input type="text" [(ngModel)]="contact.picture"> -->
+          <img src="./assets/Doraemon.jpg" width="150" height="150">
+        </td>
+      </tr>
+
+
+      <tr>
+        <td colspan="2">
+          <button (click)="Add()">Add</button>
+          <button (click)="Search()">Search</button>
+          <button (click)="Edit()">Edit</button>
+          <button (click)="Delete()">Delete</button>
+        </td>
+      </tr>
+
+    </table>
+
+    <hr>
+    <!-- table-hover used to enable a hover state feature on table rows  -->
+    <table class="table table-hover">
+      <thead>
+        <tr>
+          <!-- th defines header cell in an HTML table -->
+          <th>Id</th>
+          <th>First Name</th>
+          <th>Last Name</th>
+          <th>Gender</th>
+          <th>DOB</th>
+          <th>Email</th>
+          <th>Phone</th>
+          <th>City</th>
+          <th>State</th>
+          <th>Country</th>
+          <th>Picture</th>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- ngFor is adirective used to dynamically repeat data in a template -->
+        <tr *ngFor="let item of contacts">
+          <td>{{item.id}}</td>
+          <td>{{item.firstname}}</td>
+          <td>{{item.lastname}}</td>
+          <td>{{item.gender}}</td>
+          <td>{{item.dob}}</td>
+          <td>{{item.email}}</td>
+          <td>{{item.phone}}</td>
+          <td>{{item.city}}</td>
+          <td>{{item.state}}</td>
+          <td>{{item.country}}</td>
+          <td>{{item.picture}}</td>
+        </tr>
+      </tbody>
+    </table>
+  
+  </div>
+  
